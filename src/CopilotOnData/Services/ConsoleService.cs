@@ -30,12 +30,12 @@ internal static class ConsoleService
             {
                 if (prompt.Length < 3)
                 {
-                    return ValidationResult.Error("[red]Value too short[/]");
+                    return ValidationResult.Error("[red]URL too short[/]");
                 }
 
                 if (prompt.Length > 250)
                 {
-                    return ValidationResult.Error("[red]Value too long[/]");
+                    return ValidationResult.Error("[red]URL too long[/]");
                 }
 
                 if (Uri.TryCreate(prompt, UriKind.Absolute, out var uri)
