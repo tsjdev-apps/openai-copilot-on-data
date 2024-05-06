@@ -24,3 +24,11 @@ Then you are able to chat with your data. In the answer you will find the refere
 
 ![App](./docs/sample-02.png)
 
+
+## Buy Me A Coffee
+
+I appreciate any form of support to keep my _Open Source_ activities going.
+
+Whatever you decide, be it reading and sharing my blog posts, using my NuGet packages or buying me a coffee/book, thank you ❤️.
+
+<a href="https://www.buymeacoffee.com/tsjdevapps" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
